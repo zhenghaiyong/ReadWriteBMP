@@ -1,4 +1,4 @@
-Image-Read_Write
+ReadWriteBMP
 ================
 
-Image (bmp) Read and Write examples written in C.
+Read and Write BMP images written in C.
